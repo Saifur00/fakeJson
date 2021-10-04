@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "instructor": "Gordon Ramsey",
+    "course_name": "Teaches Cooking|Masterclass",
+    "cover_image": "https://www.masterclass.com/course-images/attachments/TQbKGrpPvjK1Xu5iLdzZUaN1?width=300&height=533&fit=cover&dpr=2",
+    "price": 1000,
+    "course_duration": "18",
+    "platform": "Online"
+  },
+  {
+    "id": 2,
+    "instructor": "Malcolm Gladwell",
+    "course_name": "Teaches Writing|Masterclass",
+    "cover_image": "https://www.masterclass.com/course-images/attachments/9NJN9SgWZPagBqE1NFr8Nn2o?width=300&height=533&fit=cover&dpr=2",
+    "price": 3000,
+    "course_duration": "10",
+    "platform": "Online"
+  },
+  {
+    "id": 3,
+    "instructor": "Penn and Teller",
+    "course_name": "The art of deception",
+    "cover_image": "https://pennandteller.com/wordpress/wp-content/uploads/2019/05/PT-Slides-heart.jpg",
+    "price": 16000,
+    "course_duration": "16",
+    "platform": "Offline"
+  },
+  {
+    "id": 4,
+    "instructor": "Dr. Jane Goodwall",
+    "course_name": "Making Conversations",
+    "cover_image": "https://www.masterclass.com/course-images/attachments/fJZMkfagoHL6trBsKraeAfFy?width=300&height=533&fit=cover&dpr=2",
+    "price": 500000,
+    "course_duration": "17",
+    "platform": "Apple TV"
+  },
+  {
+    "id": 5,
+    "instructor": "Dr. Jordan Peterson",
+    "course_name": "12 Rules for Life",
+    "cover_image": "https://i.guim.co.uk/img/media/2cbb7b18e8238dd463907a82cc7be7160360a1c9/1066_55_3689_2214/master/3689.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=142a0209a663880757df8b428e76680e",
+    "price": 1000,
+    "course_duration": "18",
+    "platform": "Online"
+  },
+  {
+    "id": 6,
+    "instructor": "Magnus",
+    "course_name": "Chess|Masterclass",
+    "cover_image": "https://mumbaimirror.indiatimes.com/thumb/msid-77311889,width-1200,height-900,resizemode-4/.jpg",
+    "price": 3000,
+    "course_duration": "10",
+    "platform": "Online"
+  },
+  {
+    "id": 7,
+    "instructor": "Penn and Teller",
+    "course_name": "The art of deception",
+    "cover_image": "https://pennandteller.com/wordpress/wp-content/uploads/2019/05/PT-Slides-heart.jpg",
+    "price": 16000,
+    "course_duration": "16",
+    "platform": "Offline"
+  },
+  {
+    "id": 8,
+    "instructor": "Dr. Jane Goodwall",
+    "course_name": "Making Conversations",
+    "cover_image": "https://www.masterclass.com/course-images/attachments/fJZMkfagoHL6trBsKraeAfFy?width=300&height=533&fit=cover&dpr=2",
+    "price": 500000,
+    "course_duration": "17",
+    "platform": "Apple TV"
+  }
+]
