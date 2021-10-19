@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Home Nursing",
+    "description": "Get hospital care at your home from our best nurses",
+    "img": "https://lh3.googleusercontent.com/proxy/sZXuPWgHf1AaRJFfMxy0tqgS2RkYsPRwodxNp0-8Z1WHsS50bs6U5buW6gKPmEZa7GWBCYnctYIHd0ZQfu_A9Yi2Ru6RPpIzjgQjEVyJv7nEuAo3DRuKu6MSIcgLZA-pPYJMYyOG9YR8J9BRlm9YonEL50oZ7zJvh3vkuISCAeTbrmy8iuw0KuoG59NW_lC1v1Z8a1m_cq6z52PGufM"
+  },
+  {
+    "id": 2,
+    "name": "Mental health Care",
+    "description": "Support your mental health alongisde your physical one with the best psychiatrists",
+    "img": "https://i.pinimg.com/564x/47/44/ce/4744ce202b57243341f2ab996de5609f.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Nutritional Counseling",
+    "description": "Learn what to eat to remail",
+    "img": "https://149568191.v2.pressablecdn.com/wp-content/uploads/2021/03/Counseling.png"
+  },
+  {
+    "id": 4,
+    "name": "Pediatric Care Specialist",
+    "description": "Make sure your kids remain in good health with our expert pediatriatian",
+    "img": "https://www.lancastergeneralhealth.org/-/media/images/lancaster%20general/images/template%20images/landing%20page%20featured%20images/section%20landing%20page/stock_section_landing_570x375_chopcare_gettyimages536907649.ashx"
+  },
+  {
+    "id": 5,
+    "name": "Genetic Counseling Testing",
+    "description": "Get to know more about your genetics and get the best out of your potential",
+    "img": "https://5.imimg.com/data5/MB/QH/GLADMIN-59175746/genetic-counselling-500x500.png"
+  },
+  {
+    "id": 6,
+    "name": "Home Nursing",
+    "description": "Get hospital care at your home from our best nurses",
+    "img": "https://lh3.googleusercontent.com/proxy/sZXuPWgHf1AaRJFfMxy0tqgS2RkYsPRwodxNp0-8Z1WHsS50bs6U5buW6gKPmEZa7GWBCYnctYIHd0ZQfu_A9Yi2Ru6RPpIzjgQjEVyJv7nEuAo3DRuKu6MSIcgLZA-pPYJMYyOG9YR8J9BRlm9YonEL50oZ7zJvh3vkuISCAeTbrmy8iuw0KuoG59NW_lC1v1Z8a1m_cq6z52PGufM"
+  }
+]
