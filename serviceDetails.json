@@ -1,0 +1,80 @@
+{
+  "service": [
+    {
+      "id": 1,
+      "name": "Home Nursing",
+      "description": "Get hospital care at your home from our best nurses",
+      "price": 1000,
+      "img": "https://www.homecarehelpers.net/wp-content/uploads/2017/03/s4-500x500.jpeg",
+      "location": {
+        "city-1": "Dhaka",
+        "city-2": "Chittagong",
+        "city-3": "Rajshahi"
+      },
+      "phone": "012583446461131"
+    },
+    {
+      "id": 2,
+      "name": "Mental health Care",
+      "description": "Support your mental health alongisde your physical one with the best psychiatrists",
+      "price": 700,
+      "img": "https://i.pinimg.com/564x/47/44/ce/4744ce202b57243341f2ab996de5609f.jpg",
+      "location": {
+        "city-1": "Dhaka",
+        "city-2": "Chittagong",
+        "city-3": "Rajshahi"
+      },
+      "phone": "012583446461131"
+    },
+    {
+      "id": 3,
+      "name": "Nutritional Counseling",
+      "description": "Learn what to eat to remain in better shape",
+      "price": 580,
+      "img": "https://149568191.v2.pressablecdn.com/wp-content/uploads/2021/03/Counseling.png",
+      "location": {
+        "city-1": "Dhaka",
+        "city-2": "Chittagong",
+        "city-3": "Rajshahi"
+      },
+      "phone": "012583446461131"
+    },
+    {
+      "id": 4,
+      "name": "Pediatric Care Specialist",
+      "description": "Make sure your kids remain in good health with our expert pediatriatian",
+      "price": 15000,
+      "img": "https://www.lancastergeneralhealth.org/-/media/images/lancaster%20general/images/template%20images/landing%20page%20featured%20images/section%20landing%20page/stock_section_landing_570x375_chopcare_gettyimages536907649.ashx",
+      "location": {
+        "city-1": "Dhaka",
+        "city-2": "Chittagong",
+        "city-3": "Rajshahi"
+      },
+      "phone": "012583446461131"
+    },
+    {
+      "id": 5,
+      "name": "Genetic Counseling Testing",
+      "description": "Get to know more about your genetics and get the best out of your potential",
+      "img": "https://5.imimg.com/data5/MB/QH/GLADMIN-59175746/genetic-counselling-500x500.png",
+      "location": {
+        "city-1": "Dhaka",
+        "city-2": "Chittagong",
+        "city-3": "Rajshahi"
+      },
+      "phone": "012583446461131"
+    },
+    {
+      "id": 6,
+      "name": "Home Nursing",
+      "description": "Get hospital care at your home from our best nurses",
+      "img": "https://www.homecarehelpers.net/wp-content/uploads/2017/03/s4-500x500.jpeg",
+      "location": {
+        "city-1": "Dhaka",
+        "city-2": "Chittagong",
+        "city-3": "Rajshahi"
+      },
+      "phone": "012583446461131"
+    }
+  ]
+}
